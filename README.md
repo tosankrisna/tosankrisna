@@ -19,7 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+https://camo.githubusercontent.com/5201b614c17e97f6b14a2ad5c134f97c388dea53/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d3030303030303f6c6f676f3d4a617661736372697074266c6f676f436f6c6f723d7768697465
 [![Tosan Krisna github stats](https://github-readme-stats.vercel.app/api?username=tosankrisna)](https://github.com/tosankrisna/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tosankrisna)](https://github.com/tosankrisna/github-readme-stats)
