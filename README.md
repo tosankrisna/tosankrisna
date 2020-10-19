@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-🌱 I’m currently learning in STMIK Primakara
-📫 How to reach me: tosankrisna@gmail.com
-💬 Ask me about Anything
-😄 Pronouns: He/Him
+🌱 I’m currently learning in STMIK Primakara <br>
+📫 How to reach me: tosankrisna@gmail.com <br>
+💬 Ask me about Anything <br>
+😄 Pronouns: He/Him <br>
 
 <!--
 **tosankrisna/tosankrisna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
